@@ -1,7 +1,8 @@
 # GustavoSantos_Portfolio
 Data Science Portfolio of Gustavo R Santos
 
-[PROJECT 1 | Finance-App-with-Streamlit] (https://github.com/gurezende/Finance-App-with-Streamlit/blob/master/README.md)
+# PROJECT 1 |
+## [Finance-App-with-Streamlit] (https://github.com/gurezende/Finance-App-with-Streamlit/blob/master/README.md)
 
 This project has two parts:
 1. Performed a complete Data Analysis of a Financial tracking file and built a classification model with Logistic Regression. 
