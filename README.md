@@ -10,7 +10,7 @@ This project has two parts:
 2. The second part is a Web App created with Python and Streamlit where the user can upload a file with forecast inputs to get a couple of graphics with comparison between the projects and the average of the portfolio, as well as to find the predictions whether the projects uploaded will or will not meet the budget.
 See more information on this [link](https://datasciencegus.wordpress.com/2020/07/10/finance-web-app-with-streamlit/)
 
-![](https://github.com/gurezende/GustavoSantos_Portfolio/blob/master/images/Financestreamlit.png)
+![](/images/Financestreamlit.png)
 
 ---
 
@@ -24,4 +24,4 @@ The result is on the first three tabs of the app: Histograms, Boxplots and Repor
 3. The final part was to create a Prediction Interactive Tool for the White Wines from the dataset that allows the client to input some values and have a prediction whether that wine is going to be qualified as High Quality (grades from 7-10) or Low Quality (grades from 3-6). You can interact with the tool in the tab Predictions. The accuracy is 95%.
 See more information on this [link](https://datasciencegus.wordpress.com/2020/07/16/wine-quality-project-with-rshiny/).
 
-![](https://github.com/gurezende/GustavoSantos_Portfolio/blob/master/images/WineQualityApp.png)
+![](/images/WineQualityApp.png)
