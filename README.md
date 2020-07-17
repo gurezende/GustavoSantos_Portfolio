@@ -1,4 +1,4 @@
-# GustavoSantos_Portfolio
+# Gustavo Santos
 Data Science Portfolio of Gustavo R Santos
 
 # | PROJECT 1
