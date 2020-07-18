@@ -34,7 +34,7 @@ See more information on this [link](https://datasciencegus.wordpress.com/2020/07
 # | PROJECT 3
 ## [Bible Word Clouds](https://github.com/gurezende/Bible_WordClouds)
 This project was created in R Language.
-- Created a word cloud for each book from the bible.
+- Created a word cloud for each book in the Holy Bible.
   * Used for lops
   * Saved results in a PDF.
 
