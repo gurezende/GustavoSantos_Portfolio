@@ -28,3 +28,14 @@ The result is on the first three tabs of the app: Histograms, Boxplots and Repor
 See more information on this [link](https://datasciencegus.wordpress.com/2020/07/16/wine-quality-project-with-rshiny/) or [visit the app](https://gurezende.shinyapps.io/wine_quality_project/)
 
 ![](/images/WineQualityApp.png)
+
+---
+
+# | PROJECT 3
+## [Bible Word Clouds](https://github.com/gurezende/Bible_WordClouds)
+This project was created in R Language.
+- Created a word cloud for each book from the bible.
+  * Used for lops
+  * Saved results in a PDF.
+
+![](/images/WineQualityApp.png)
