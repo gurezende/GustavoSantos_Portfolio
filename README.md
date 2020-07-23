@@ -52,6 +52,7 @@ On this project, I was able to do a complete analysis with data exploration and 
 - Did a simple Natural Language Processing with nltk to analyze the reviews of the rentals.
   - Word Cloud, word frequence count, Bigrams and Trigrams analysis.
 - Wrote a Conclusion Report.
+
 See more information in this [link](https://bit.ly/2EdKHSe).
 
 ![](/images/mapprojairbnb.png)
