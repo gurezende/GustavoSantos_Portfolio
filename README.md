@@ -10,7 +10,7 @@ This project has two parts:
    The model predicts the probability of a given project to end the year within the approved budget. **The accuracy is 93%**.
 2. The second part is a Web App created with Python and Streamlit where the user can upload a file with forecast inputs to get a couple of graphics with comparison between the projects and the average of the portfolio, as well as to find the predictions whether the projects uploaded will or will not meet the budget.
 
-See more information on this [link](https://datasciencegus.wordpress.com/2020/07/10/finance-web-app-with-streamlit/) or [visit the app](https://finance-streamlit.herokuapp.com)
+See more information in this [link](https://datasciencegus.wordpress.com/2020/07/10/finance-web-app-with-streamlit/) or [visit the app](https://finance-streamlit.herokuapp.com)
 
 ![](/images/Financestreamlit.png)
 
@@ -25,7 +25,7 @@ The result is on the first three tabs of the app: *Histograms, Boxplots and Repo
 2. Divide the dataset in two clusters. I have gathered both datasets (red + white) to simulate a request from the client where they needed to know which wine was what kind. The result was 98% accurate and that can be seen on the *Clustering* tab.
 3. The final part was to create a Prediction Interactive Tool for the White Wines from the dataset that allows the client to input some values and have a prediction whether that wine is going to be qualified as High Quality (grades from 7-10) or Low Quality (grades from 3-6). You can interact with the tool in the tab *Predictions*. **The accuracy is 95%**.
 
-See more information on this [link](https://datasciencegus.wordpress.com/2020/07/16/wine-quality-project-with-rshiny/) or [visit the app](https://gurezende.shinyapps.io/wine_quality_project/)
+See more information in this [link](https://datasciencegus.wordpress.com/2020/07/16/wine-quality-project-with-rshiny/) or [visit the app](https://gurezende.shinyapps.io/wine_quality_project/)
 
 ![](/images/WineQualityApp.png)
 
@@ -52,5 +52,6 @@ On this project, I was able to do a complete analysis with data exploration and 
 - Did a simple Natural Language Processing with nltk to analyze the reviews of the rentals.
   - Word Cloud, word frequence count, Bigrams and Trigrams analysis.
 - Wrote a Conclusion Report.
+See more information in this [link](https://bit.ly/2EdKHSe).
 
 ![](/images/mapprojairbnb.png)
