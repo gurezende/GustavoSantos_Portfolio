@@ -52,4 +52,4 @@ This is a data exploration and visualization project on the 'New York City Airbn
   - Word Cloud, word frequence count, Bigrams and Trigrams analysis.
 - Wrote a Conclusion Report.
 
-![](/images/BibleWordCloud.png)
+![](/images/airbnbproject.png)
