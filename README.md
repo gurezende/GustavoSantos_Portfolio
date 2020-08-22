@@ -46,7 +46,7 @@ Activities performed:
 
 Learn more about this project [link](https://bit.ly/2QguEFX) or [visit the Shiny app](https://gurezende.shinyapps.io/HRAnalytics-Turnover/)
 
-![](/images/WineQualityApp.png)
+![](/images/EmployeeTurnover.png)
 
 
 ---
