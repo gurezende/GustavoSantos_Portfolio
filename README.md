@@ -63,7 +63,7 @@ This project was created in R Language.
 
 ---
 
-# PROJECT 5
+# | PROJECT 5
 ## [NYC-Airbnb](https://github.com/gurezende/NYC-Airbnb)
 On this project, I was able to do a complete analysis with data exploration and visualization study on the *'New York City Airbnb Open Data'*.
 - Created some plots to show the data and extract insights
@@ -80,7 +80,7 @@ See more information in this [link](https://bit.ly/2EdKHSe).
 
 ---
 
-# PROJECT 6
+# | PROJECT 6
 ## [Recommendation Systems](https://github.com/gurezende/Studying/tree/master/MIT/Module4)
 
 In this project, I have created three different types of Recommendation Systems using Python and the **surprise** package.
@@ -90,7 +90,7 @@ In this project, I have created three different types of Recommendation Systems 
 
 Learn more about this project: [link](https://bit.ly/3oplvL6)
 
-![](/images/Screen%20Shot%202020-10-24%20at%206.00.59%20PM.png)
+![](MIT/Module4/images/Screen%20Shot%202020-10-24%20at%206.00.59%20PM.png)
 
 
 
