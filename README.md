@@ -90,7 +90,7 @@ In this project, I have created three different types of Recommendation Systems 
 
 Learn more about this project: [link](https://bit.ly/3oplvL6)
 
-![](/Module4/quantile.png)
+![](/MIT/Module4/quantile.png)
 
 
 
