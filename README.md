@@ -90,7 +90,7 @@ In this project, I have created three different types of Recommendation Systems 
 
 Learn more about this project: [link](https://bit.ly/3oplvL6)
 
-![](https://github.com/gurezende/Studying/blob/master/MIT/Module4/images/Screen%20Shot%202020-10-24%20at%206.00.59%20PM.png)
+![](tree/master/MIT/Module4/images/Screen%20Shot%202020-10-24%20at%206.00.59%20PM.png)
 
 
 
