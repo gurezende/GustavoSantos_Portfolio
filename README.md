@@ -65,7 +65,7 @@ This project was created in R Language.
 
 # | PROJECT 5
 ## [NYC-Airbnb](https://github.com/gurezende/NYC-Airbnb)
-On this project, I was able to do a complete analysis with data exploration and visualization study on the *'New York City Airbnb Open Data'*.
+In this project, I was able to do a complete analysis with data exploration and visualization study on the *'New York City Airbnb Open Data'*.
 - Created some plots to show the data and extract insights
   - Boxplots, histograms, bar graphics
   - Created a Map using Folium package with the locations of the places for rent and added HeatMap by price 
@@ -97,7 +97,7 @@ Learn more about this project: [link](https://bit.ly/3oplvL6)
 # | PROJECT 7
 ## [Tweet's Analysis](https://github.com/gurezende/Studying/tree/master/Python/SentimentAnalysis)
 
-In this project, I have extracted 100 tweets using Tweepy to analyze it.
+In this project, I have extracted 100 tweets using Tweepy to analyze them.
 Activities performed:
 * Data extraction from Twitter using Tweepy
 * Data Exploratory Analysis including manipulation of dates, text and numbers
