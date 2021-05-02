@@ -111,7 +111,7 @@ Activities performed:
 ---
 
 # | PROJECT 8
-## CSV_to_Parquet_Program
+## [CSV_to_Parquet_Program](https://github.com/gurezende/CSV_to_Parquet_Program)
 Windows application that converts files from CSV to Parquet format or Parquet to CSV.
 
 The main points learned with this project were:
