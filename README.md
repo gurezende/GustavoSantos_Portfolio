@@ -18,7 +18,7 @@ The main skills demonstrated in this project are:
 
 [Visit the Web App here](https://share.streamlit.io/gurezende/car_prices_regression_streamlit/main/ConsultorVirtualCarros.py)
 
-![](/Car_Prices_Regression_Streamlit/images/consultorScreenshot.png)
+![](gurezende/Car_Prices_Regression_Streamlit/images/consultorScreenshot.png)
 
 ---
 
