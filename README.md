@@ -1,8 +1,26 @@
 # Gustavo Santos
 Data Science Portfolio of Gustavo R Santos
 
-
 # | PROJECT 1
+## [Car Prices Regression Analysis](https://github.com/gurezende/Car_Prices_Regression_Streamlit)
+
+This is a complete Regression Analysis Project where I demonstrate the exploratory data analysis as well as train a Random Forest Regression model to estimate prices of cars in Brazil.
+
+The main skills demonstrated in this project are:
+* *Data Collecting*: I have collected data from the internet to create this dataset with 1352 observations. The data was collected on August, 2021.
+* *Data Cleaning*: I have cleaned, parsed, formatted the data to make it ready for modeling.
+* *Exploratory Data Analysis*: I have done the descriptive statistical analysis, univariated and bivariated analysis to understand the dataset.
+* *Data Visualization*: Several graphics plotted (bars, boxplots, scatterplots etc
+* *Data inputation*: I've inputed data using ML prediction with Random Forest from missingpy library.
+* *Outliers*: I have identified and removed outliers for better performance of the model.
+* *Testing and Fitting*: There are 5 models in this project and they were improved at each iterations, reaching a 95% of Explained Variance (R-Squared)
+* The Project ends with a Web App created with Streamlit.
+
+![](/consultor-screenshot.png)
+
+[Visit the Web App here](https://share.streamlit.io/gurezende/car_prices_regression_streamlit/main/ConsultorVirtualCarros.py)
+
+# | PROJECT 2
 ## [Finance-App-with-Streamlit](https://github.com/gurezende/Finance-App-with-Streamlit)
 
 This project has two parts:
@@ -16,7 +34,7 @@ See more information in this [link](https://datasciencegus.wordpress.com/2020/07
 
 ---
 
-# | PROJECT 2
+# | PROJECT 3
 ## [Wine_Quality_Predictions](https://github.com/gurezende/Wine_Quality_Predictions)
 In this project, the idea was to simulate a business problem where a client (winery) had some data about their products and they wanted to see how the variables measured could possibly affect the wine quality, therefore, resulting in higher or lower grades for their wines. Then the client wanted to have their dataset divided in two clusters (white and red wines) and finally see some predictions about the quality for their new wines. It was all developed in R language, using R to build the app.
 The work was divided in 3 main parts:
@@ -31,7 +49,7 @@ See more information in this [link](https://datasciencegus.wordpress.com/2020/07
 
 ---
 
-# | PROJECT 3
+# | PROJECT 4
 ## [Predicting Employee Turnover of a Business](https://github.com/gurezende/Predict-Turnover-Company)
 This is a Project from the Data Scientist Program Degree by Data Science Academy Brazil. The idea is to build a classification model to predict if an employee will or not leave the company based on the variables satisfaction level, number of projects one is working, number of hours worked in a month and the years this person is in that company.
 
@@ -51,7 +69,7 @@ Learn more about this project [link](https://bit.ly/2QguEFX) or [visit the Shiny
 
 ---
 
-# | PROJECT 4
+# | PROJECT 5
 ## [Bible Word Clouds](https://github.com/gurezende/Bible_WordClouds)
 This project was created in R Language.
 - Created a word cloud for each book in the Holy Bible.
@@ -63,7 +81,7 @@ This project was created in R Language.
 
 ---
 
-# | PROJECT 5
+# | PROJECT 6
 ## [NYC-Airbnb](https://github.com/gurezende/NYC-Airbnb)
 In this project, I was able to do a complete analysis with data exploration and visualization study on the *'New York City Airbnb Open Data'*.
 - Created some plots to show the data and extract insights
@@ -80,7 +98,7 @@ See more information in this [link](https://bit.ly/2EdKHSe).
 
 ---
 
-# | PROJECT 6
+# | PROJECT 7
 ## [Recommendation Systems](https://github.com/gurezende/Studying/tree/master/MIT/Module4)
 
 In this project, I have created three different types of Recommendation Systems using Python and the **surprise** package.
@@ -94,7 +112,7 @@ Learn more about this project: [link](https://bit.ly/3oplvL6)
 
 ---
 
-# | PROJECT 7
+# | PROJECT 8
 ## [Tweet's Analysis](https://github.com/gurezende/Studying/tree/master/Python/SentimentAnalysis)
 
 In this project, I have extracted 100 tweets using Tweepy to analyze them.
@@ -110,7 +128,7 @@ Activities performed:
 
 ---
 
-# | PROJECT 8
+# | PROJECT 9
 ## [CSV_to_Parquet_Program](https://github.com/gurezende/CSV_to_Parquet_Program)
 Windows application that converts files from CSV to Parquet format or Parquet to CSV.
 
