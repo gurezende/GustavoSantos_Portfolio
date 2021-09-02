@@ -76,7 +76,6 @@ This project was created in R Language.
   * Used for lops
   * Saved results in a PDF.
 
-![](/images/BibleWordCloud.png)
 
 
 ---
