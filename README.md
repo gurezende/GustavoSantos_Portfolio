@@ -158,6 +158,3 @@ The main skills demonstrated in this project are:
 * *Data scaling and balancinginputation*: I have scaled some variables to make the data more uniform and used **Oversampling and Undersampling** techniques to balance the dataset, as it contains only 0.17% of the minoritary class.
 * *Model Selection*: There are 4 models. I used Cross Validation to select the best option, reaching over **99%** of F1 score (Precision / Recall)
 
-![](gurezende/Car_Prices_Regression_Streamlit/images/consultorScreenshot.png)
-# Credit-Card-Fraud-Detection
-Classification Model to prevent Credit Card Fraud
