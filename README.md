@@ -158,3 +158,15 @@ The main skills demonstrated in this project are:
 * *Data scaling and balancinginputation*: I have scaled some variables to make the data more uniform and used **Oversampling and Undersampling** techniques to balance the dataset, as it contains only 0.17% of the minoritary class.
 * *Model Selection*: There are 4 models. I used Cross Validation to select the best option, reaching over **99%** of F1 score (Precision / Recall)
 
+---
+# | PROJECT 11
+## [Diamont Carat Prediction with KNN Regression](https://github.com/gurezende/Studying/blob/master/Python/Linear%20Regression/KNN_Regression.ipynb)
+
+In this project, the intention is to train a model that will predict the carat size of a  diamond based on the sizes of its cut.
+
+The main skills demonstrated in this project are:
+* *Exploratory Data Analysis*: Analyzed the data to select the best features for prediction, checked for missing data.
+* *Data Visualization*: graphics plotted (bars, boxplots, scatterplots etc)
+* *Remove Outliers*: This data had a lot of outliers, so I have removed them to improve the model.
+* *Log Transformation*: The explanatory variables have a slightly exponential relationship with the target variable. A Log transformation solved it.
+* *Model Selection*: There are 3 models trained, being Linear Regression with no variable transformation, LR with Log transformation and KNN Regression.
