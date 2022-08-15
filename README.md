@@ -170,3 +170,16 @@ The main skills demonstrated in this project are:
 * *Remove Outliers*: This data had a lot of outliers, so I have removed them to improve the model.
 * *Log Transformation*: The explanatory variables have a slightly exponential relationship with the target variable. A Log transformation solved it.
 * *Model Selection*: There are 3 models trained, being Linear Regression with no variable transformation, LR with Log transformation and KNN Regression.
+
+---
+# | PROJECT 12
+## [News Headlines Classifier with Multinomial NB](https://github.com/gurezende/News_Classifier)
+
+In this project, I have created a simple model to classify news headlines in categories.
+
+This small project covers the skills:
+* Web scraping
+* Pandas manipulation
+* Creation of a news headline classifier created with **Multinomial Naïve Bayes** from *sklearn*.
+
+Read more about this project in my [Medium blog post](https://gustavorsantos.medium.com/creating-a-news-classifier-with-multinomial-naive-bayes-94d09c442769?sk=c54fe2888ea43d24f042c0cd2a7c510d)
