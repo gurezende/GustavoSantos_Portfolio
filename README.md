@@ -23,16 +23,20 @@ The main skills demonstrated in this project are:
 ---
 
 # | PROJECT 2
-## [Finance-App-with-Streamlit](https://github.com/gurezende/Finance-App-with-Streamlit)
+## [Text Sentiment Analyzer](https://github.com/gurezende/Sentiment_Analysis_TidyText)
 
-This project has two parts:
-1. Performed a complete Data Analysis of a Financial tracking file and built a classification model with Logistic Regression. 
-   The model predicts the probability of a given project to end the year within the approved budget. **The accuracy is 93%**.
-2. The second part is a Web App created with Python and Streamlit where the user can upload a file with forecast inputs to get a couple of graphics with comparison between the projects and the average of the portfolio, as well as to find the predictions whether the projects uploaded will or will not meet the budget.
+The project uses R Language to create a Shiny web application that reads a text and returns the word frequencies and a graphic with sentiment analysis.
+Abilities developed:
 
-See more information in this [link](https://datasciencegus.wordpress.com/2020/07/10/finance-web-app-with-streamlit/) or [visit the app](https://finance-streamlit.herokuapp.com)
+ 1. Natural Language Processing
+ 2. Tidytext
+ 3. Creating web applications with Shiny Apps for R
 
-![](/images/Financestreamlit.png)
+
+See more information in this [Medium Post](https://towardsdatascience.com/quick-text-sentiment-analysis-with-r-2cc4f04c35c1?sk=d831b3f61ce406fafc8e54f38057cd1d) and [visit the app](https://gurezende.shinyapps.io/Sentiment_Analysis_App/)
+
+![](/images/Sentiment_Analyzer_Shiny.png)
+
 
 ---
 
