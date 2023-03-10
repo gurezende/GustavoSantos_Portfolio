@@ -36,7 +36,7 @@ Abilities developed:
 
 See more information in this [Medium Post](https://towardsdatascience.com/quick-text-sentiment-analysis-with-r-2cc4f04c35c1?sk=d831b3f61ce406fafc8e54f38057cd1d) and [visit the app](https://gurezende.shinyapps.io/Sentiment_Analysis/)
 
-![](/images/Sentiment_Analyzer_Shiny.png)
+![](/images/Sentiment_Analyzer_Shiny_2.png)
 
 
 ---
